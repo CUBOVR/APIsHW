@@ -25,7 +25,7 @@ exports.config = {
 			endpoint: 'https://rickandmortyapi.com/api/character/',
 		},
 		GraphQL: {
-			endpoint: 'https://rickandmortyapi.com/graphql',
+			endpoint: 'https://graphql-pokeapi.vercel.app/api/graphql',
 		},
 		DbHelper: {
 			require: './node_modules/codeceptjs-dbhelper',

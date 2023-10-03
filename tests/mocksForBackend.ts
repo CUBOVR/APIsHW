@@ -70,7 +70,6 @@ export const mockDataForRicky = {
 	url: 'https://rickandmortyapi.com/api/character/1',
 	created: '2017-11-04T18:48:46.250Z',
 }
-
 export const mockForJSON = {
 	info: {
 		count: 826,
